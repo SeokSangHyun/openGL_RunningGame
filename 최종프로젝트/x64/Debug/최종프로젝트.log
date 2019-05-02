@@ -1,0 +1,19 @@
+﻿  basic.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  Character.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  DAY.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  GAMESTATE.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  main.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  MAINSTATE.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  OBSTACLE.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  OBS_PATTERN.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  TITLESTATE.cpp
+D:\DownLoad\Open-GL-Study-master\Open-GL-Study-master\최종프로젝트\최종프로젝트\basic.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'gl/glut.h': No such file or directory
+  코드를 생성하고 있습니다...

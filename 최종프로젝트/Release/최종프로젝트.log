@@ -1,0 +1,33 @@
+﻿  basic.cpp
+  Character.cpp
+  DAY.cpp
+  GAMESTATE.cpp
+  main.cpp
+  MAINSTATE.cpp
+  OBSTACLE.cpp
+  OBS_PATTERN.cpp
+  TITLESTATE.cpp
+  코드를 생성하고 있습니다.
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+C:\Users\paint\Desktop\Programming\포트폴리오용\Open-GL-Study\최종프로젝트\Release\최종프로젝트.exe : fatal error LNK1281: SAFESEH 이미지를 생성할 수 없습니다.
